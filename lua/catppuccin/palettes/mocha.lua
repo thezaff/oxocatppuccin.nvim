@@ -28,20 +28,20 @@
 -- }
 
 return {
-	rosewater = "#ffffff",
+	rosewater = "#fafafa",
 	flamingo = "#82cfff",
-	pink = "#f5c2e7", -- not base16
+	pink = "#FFAB91",
 	mauve = "#be95ff",
 	red = "#ee5396",
-	maroon = "#eba0ac", -- not base16
+	maroon = "#FF6F00",
 	peach = "#78a9ff",
 	yellow = "#3ddbd9",
 	green = "#33b1ff",
 	teal = "#42be65",
-	sky = "#08bdba",   -- not base16
-	sapphire = "#74c7ec", -- not base16
+	sky = "#08bdba",
+	sapphire = "#0f62fe",
 	blue = "#ff7eb6",
-	lavender = "#89dceb",
+	lavender = "#673AB7",
 	text = "#f2f4f8",
 	subtext1 = "#d2d9e7",
 	subtext0 = "#b2bed6",
@@ -53,7 +53,7 @@ return {
 	surface0 = "#393939",
 	base = "#161616",
 	mantle = "#262626",
-	crust = "#11111b", -- not base16
+	crust = "#131313",
 }
 
 -- -- Dark
