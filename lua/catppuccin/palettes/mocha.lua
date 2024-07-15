@@ -30,7 +30,7 @@
 return {
 	rosewater = "#0f62fe",
 	flamingo = "#82cfff",
-	pink = "#f2f4f8",
+	pink = "#be95ff",
 	mauve = "#78a9ff",
 	red = "#FFAB91",
 	maroon = "#FF6F00",
@@ -42,7 +42,7 @@ return {
 	sapphire = "#3ddbd9",
 	blue = "#ff7eb6",
 	lavender = "#ee5396", -- good
-	text = "#be95ff",
+	text = "#f2f4f8",
 	subtext1 = "#d2d9e7",
 	subtext0 = "#b2bed6",
 	overlay2 = "#96A4AE",
