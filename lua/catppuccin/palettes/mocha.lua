@@ -28,14 +28,14 @@
 -- }
 
 return {
-	rosewater = "#fafafa",
+	rosewater = "#0f62fe",
 	flamingo = "#82cfff",
 	pink = "#ff7eb6",
 	mauve = "#ee5396",
 	red = "#FFAB91",
 	maroon = "#FF6F00",
 	peach = "#78a9ff",
-	yellow = "#0f62fe",
+	yellow = "#fafafa",
 	green = "#33b1ff",
 	teal = "#42be65",
 	sky = "#08bdba",
