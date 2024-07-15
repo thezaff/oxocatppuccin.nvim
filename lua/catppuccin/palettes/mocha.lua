@@ -32,10 +32,10 @@ return {
 	flamingo = "#82cfff",
 	pink = "#f5c2e7", -- not base16
 	mauve = "#be95ff",
-	red = "#3ddbd9",
+	red = "#ee5396",
 	maroon = "#eba0ac", -- not base16
 	peach = "#78a9ff",
-	yellow = "#ee5396",
+	yellow = "#3ddbd9",
 	green = "#33b1ff",
 	teal = "#42be65",
 	sky = "#08bdba",   -- not base16
