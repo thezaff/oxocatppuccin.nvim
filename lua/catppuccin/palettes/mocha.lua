@@ -37,11 +37,11 @@ return {
 	peach = "#78a9ff",
 	yellow = "#ee5396",
 	green = "#33b1ff",
-	teal = "#ff7eb6",
-	sky = "#89dceb",   -- not base16
+	teal = "#42be65",
+	sky = "#08bdba",   -- not base16
 	sapphire = "#74c7ec", -- not base16
-	blue = "#42be65",
-	lavender = "#08bdba",
+	blue = "#ff7eb6",
+	lavender = "#89dceb",
 	text = "#f2f4f8",
 	subtext1 = "#d2d9e7",
 	subtext0 = "#b2bed6",
